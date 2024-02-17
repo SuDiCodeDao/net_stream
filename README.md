@@ -1,6 +1,9 @@
 # net_stream
 
-A new Flutter project.
+Online Movie Streaming App
+ - Flutter, BLoC, Supabase, TheMovieDB API, Clean Architecture
+ - Browse movies, view details, search, save favorites, login/register
+ - Modern, smooth, user-friendly, secure, scalable
 
 ## Getting Started
 
